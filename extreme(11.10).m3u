@@ -1,0 +1,111 @@
+﻿#EXTM3U
+#EXTINF:1,tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name=""  group-title="Unsorted",채널 없음
+udp://##
+
+#EXTINF:2, tvg-id="260" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvg-name="신세계쇼핑"  group-title="Unsorted",신세계쇼핑
+http://125.185.9.159:9981/stream/channelid/1117383811?ticket=58030d0fae4288687fdee7380fd617579257dac2&profile=pass
+
+#EXTINF:3, tvg-id="128" tvg-logo="http://i.imgur.com/VBMFcZ3.png" tvg-name="MBC Dramanet"  group-title="Unsorted",MBC Dramanet
+http://125.185.9.159:9981/stream/channelid/478545376?ticket=94980cc23aa10af4f066b579dc6e986ad86fc4cd&profile=pass
+
+#EXTINF:4, tvg-id="40" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-name="CJ오쇼핑 플러스"  group-title="Unsorted",CJ오쇼핑
+http://125.185.9.159:9981/stream/channelid/1417776773?ticket=34b63197ba6e0b94c4a2e9a6fb4c5e5ef26ba4d1&profile=pass
+
+#EXTINF:5, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS"  group-title="Unsorted",SBS
+http://125.185.9.159:9981/stream/channelid/2063783218?ticket=786fd3256e161b0c9a594a40e7036b02ec5b0ca0&profile=pass
+
+#EXTINF:6, tvg-id="238" tvg-logo="http://i.imgur.com/2bCfj0y.png" tvg-name="롯데홈쇼핑"  group-title="Unsorted",롯데홈쇼핑
+rtp://233.18.158.80:5000
+
+#EXTINF:7, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2
+http://125.185.9.159:9981/stream/channelid/2051759079?ticket=76fbbaeecc225edd1d0bda320b7e143489a8ad8b&profile=pass
+
+#EXTINF:8, tvg-id="85" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-name="GS SHOP"  group-title="Unsorted",GS SHOP
+http://125.185.9.159:9981/stream/channelid/808342345?ticket=8d45ecbffa9137184229130f78e26bcc1c25b8c8&profile=pass
+
+#EXTINF:9, tvg-id="110" tvg-logo="https://i.imgur.com/7m0VJUq.png" tvg-name="KBS1"  group-title="Unsorted",KBS1
+http://125.185.9.159:9981/stream/channelid/1025776423?ticket=f68c10dc121ae65b22e9ba72da5ee56c6731d8c1&profile=pass
+
+#EXTINF:10, tvg-id="312" tvg-logo="http://i.imgur.com/87fdrA5.png" tvg-name="현대홈쇼핑"  group-title="Unsorted",현대홈쇼핑
+http://125.185.9.159:9981/stream/channelid/332297843?ticket=574295dd4a58e8fc885b2c5cfaf6d98f1204de8a&profile=pass
+
+#EXTINF:11, tvg-id="122" tvg-logo="http://i.imgur.com/duig32i.png" tvg-name="MBC"  group-title="Unsorted",MBC
+http://125.185.9.159:9981/stream/channelid/505820353?ticket=b95867fa508f43f91dbed52cab0b681a19c8ac44&profile=pass
+
+#EXTINF:13, tvg-id="60" tvg-logo="https://i.imgur.com/9zyJNea.png" tvg-name="EBS"  group-title="Unsorted",EBS
+http://125.185.9.159:9981/stream/channelid/1266190694?ticket=f3877b62f7fbd55d0bc8fe35beb5adcf822c1f1b&profile=pass
+
+#EXTINF:15,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC"  group-title="Unsorted",JTBC
+http://125.185.9.159:9981/stream/channelid/1845804769?ticket=84802cfd64ea618d76f73a484cb73ab000690d5f&profile=pass
+
+#EXTINF:16,tvg-id="129" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-name="MBN"  group-title="Unsorted",MBN
+http://125.185.9.159:9981/stream/channelid/1067883280?ticket=8d6006a0d579bbee1e0fd98f845d4068c12ac1c2&profile=pass
+
+#EXTINF:17, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN"  group-title="Unsorted",tvN
+http://125.185.9.159:9981/stream/channelid/1679623349?ticket=e4c53de5f6fc3ff6aedb90102e1aa08d0da4c38d&profile=pass
+
+#EXTINF:18,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A"  group-title="Unsorted",채널A
+http://125.185.9.159:9981/stream/channelid/1583162438?ticket=bf0a5468b844407c051410f03b48f3ac5a637f05&profile=pass
+
+#EXTINF:19,tvg-id="208" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-name="TV조선"  group-title="Unsorted",TV조선
+http://125.185.9.159:9981/stream/channelid/460460804?ticket=e987c14141a7bd6858509827766baf767584f40e&profile=pass
+
+#EXTINF:21, tvg-id="151" tvg-logo="http://i.imgur.com/IXh6dwo.png" tvg-name="OCN"  group-title="Unsorted",OCN
+http://125.185.9.159:9981/stream/channelid/1943871399?ticket=c8d1a9a4d6d2949ecc4c5f1b87654879f3c8556a&profile=pass
+
+#EXTINF:22, tvg-id="265" tvg-logo="http://i.imgur.com/E3pJ5Jz.png" tvg-name="아임쇼핑"  group-title="Unsorted",아임쇼핑
+http://125.185.9.159:9981/stream/channelid/49935322?ticket=68daf2495118d7282cb1de2eb1825d1dcef2fbcf&profile=pass
+
+#EXTINF:23,tvg-id="268" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="연합뉴스TV"  group-title="Unsorted",연합뉴스TV
+http://125.185.9.159:9981/stream/channelid/1622181296?ticket=1c099fd1a8525d3eb4b14c05676cfc9d0d48ca5f&profile=pass
+
+#EXTINF:24,tvg-id="218" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-name="YTN"  group-title="Unsorted",YTN
+http://125.185.9.159:9981/stream/channelid/2140110198?ticket=fcd6d75d0f210b1a77b4705b1dec3b976449af00&profile=pass
+
+#EXTINF:28, tvg-id="41" tvg-logo="http://i.imgur.com/WlK2YDk.png" tvg-name="CJ오쇼핑플러스"  group-title="Unsorted",CJ오쇼핑플러스
+http://125.185.9.159:9981/stream/channelid/924924216?ticket=3ed3ec6c929f3e914adac5fe27d829900a7c7bd5&profile=pass
+
+#EXTINF:29, tvg-id="283" tvg-logo="http://i.imgur.com/fwjRwkx.png" tvg-name="채널CGV"  group-title="Unsorted",채널CGV
+http://125.185.9.159:9981/stream/channelid/2076191045?ticket=5c0fb34268e04fd829c93bf21646330478a3fbd7&profile=pass
+
+#EXTINF:36, tvg-id="313" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvg-name="현대홈쇼핑+샵"  group-title="Unsorted",현대홈쇼핑+샵
+http://125.185.9.159:9981/stream/channelid/2061838831?ticket=e556dd379f6a2bbe62ffa9d551635e3edad920b9&profile=pass
+
+#EXTINF:37, tvg-id="314" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-name="홈&쇼핑"  group-title="Unsorted",홈&쇼핑
+http://125.185.9.159:9981/stream/channelid/1238924762?ticket=00a094fbf0679ae22b01422d6c7c0bbacc0c9518&profile=pass
+
+#EXTINF:38, tvg-id="84" tvg-logo="http://i.imgur.com/0Y0pRW4.png" tvg-name="GS MY SHOP"  group-title="Unsorted",GS MY SHOP
+http://125.185.9.159:9981/stream/channelid/801573534?ticket=a74b67ec0690207a71e381bc17da2620f6c0adf6&profile=pass
+
+#EXTINF:44, tvg-id="237" tvg-logo="http://i.imgur.com/vri0qlq.png" tvg-name="롯데원티비"  group-title="Unsorted",롯데원티비
+http://125.185.9.159:9981/stream/channelid/838456306?ticket=f868df02414351cd6423bab149b6dba1ffb799b3&profile=pass
+
+#EXTINF:45,tvg-id="147" tvg-logo="http://i.imgur.com/0SMl3O5.png" tvg-name="O tvN"  group-title="Unsorted",O tvN
+http://125.185.9.159:9981/stream/channelid/1083623525?ticket=ed0661ebf8763a29bb5c873f8aeb0866a0c486eb&profile=pass
+
+#EXTINF:95, tvg-id="61" tvg-logo="https://i.imgur.com/2zNGg2S.png" tvg-name="EBS2"  group-title="Unsorted",EBS2
+http://125.185.9.159:9981/stream/channelid/719552488?ticket=4093f3f0f7e2fd611d83ceca790161d04a69c25d&profile=pass
+
+#EXTINF:123, tvg-id="153" tvg-logo="http://i.imgur.com/tLtSTaq.png" tvg-name="OGN"  group-title="Unsorted",OGN
+http://125.185.9.159:9981/stream/channelid/472340260?ticket=9fb3d9bd0318e2def46eb69715964c7199d64976&profile=pass
+
+#EXTINF:130, tvg-id="235" tvg-logo="http://i.imgur.com/qZdqeZo.png" tvg-name="Disney Channel"  group-title="Unsorted",Disney Channel
+http://125.185.9.159:9981/stream/channelid/316057113?ticket=bb6479aa0bba9adc13afac521f2d91fef2def5cb&profile=pass
+
+#EXTINF:138, tvg-id="266" tvg-logo="http://i.imgur.com/7RKoOZq.png" tvg-name="애니플러스"  group-title="Unsorted",애니플러스
+http://125.185.9.159:9981/stream/channelid/913634814?ticket=228983ae01c5817cc16ad4e6608842d2919bcf49&profile=pass
+
+#EXTINF:142, tvg-id="96" tvg-logo="http://i.imgur.com/NoNRdSt.png" tvg-name="JEI 재능TV"  group-title="Unsorted",JEI 재능TV
+http://125.185.9.159:9981/stream/channelid/2093798073?ticket=e40323e0900230c1972f7fbedfadcb1103c1b4fb&profile=pass
+
+#EXTINF:147, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="대교상상kids"  group-title="Unsorted",대교상상kids
+http://125.185.9.159:9981/stream/channelid/1979949150?ticket=0d64bbf696f7f6dea1b1a47b9ef8838ffee2c3d9&profile=pass
+
+#EXTINF:174, tvg-id="181" tvg-logo="http://i.imgur.com/BNxE2zT.png" tvg-name="Sky Drama"  group-title="Unsorted",Sky Drama
+http://125.185.9.159:9981/stream/channelid/1211835110?ticket=485a01d91672a88d57f7358cb87983a1af79df77&profile=pass
+
+#EXTINF:175, tvg-id="219" tvg-logo="http://i.imgur.com/gwDHYGf.png" tvg-name="YTN 사이언스"  group-title="Unsorted",YTN 사이언스
+http://125.185.9.159:9981/stream/channelid/1143560994?ticket=b5cf43ae2d0660a827893c7a91dc5eceb5bcbb36&profile=pass
+
+#EXTINF:191, tvg-id="46" tvg-logo="http://i.imgur.com/RxsYny9.png" tvg-name="CNN International"  group-title="Unsorted",CNN International
+http://125.185.9.159:9981/stream/channelid/496537993?ticket=1fcc9224e60193174c5c5016a2de076ebb461c45&profile=pass
