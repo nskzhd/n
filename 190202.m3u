@@ -138,13 +138,13 @@ http://116.34.224.168:9981/stream/channelid/692279528
 http://49.168.59.96:9981/stream/channelid/1626760330?ticket=594CA578A03A71C9203C7C9ED6E80C4BF2ED4423&profile=pass
 
 #EXTINF:-1,tvg-id="268" tvg-logo="https://www.i-on.net/news/success/__icsFiles/afieldfile/2018/02/05/logo_ypn.jpg" tvg-name="연합뉴스TV-2"  group-title="Unsorted",연합뉴스TV-2
-http://180.229.61.80:9981/stream/channelid/338976407
+http://110.12.221.48:9981/stream/channelid/221799821?ticket=10FEA9A81EFE4259D979AC8E92D359677847B797&profile=pass
 
 #EXTINF:24,tvg-id="218" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-name="YTN"  group-title="Unsorted",YTN
 http://123.111.251.9:9981/stream/channelid/1167578092?ticket=EB4CA420863528EDD863425E19B7313A01E3C4B1&profile=pass
 
 #EXTINF:-1,tvg-id="218" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-name="YTN-1"  group-title="Unsorted",YTN-1
-http://180.229.61.80:9981/stream/channelid/2134196462
+http://110.12.221.48:9981/stream/channelid/1254924184?ticket=183C00F17BE60D7BD6F61935053C033BEC951D9B&profile=pass
 
 #EXTINF:-1,tvg-id="218" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-name="YTN-2"  group-title="Unsorted",YTN-2
 http://49.168.59.96:9981/stream/channelid/264289540?ticket=B261EA5A782C2C081D693F3E15063457A39F03AD&profile=pass
