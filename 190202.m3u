@@ -11,26 +11,8 @@ http://evwptd800ehfx2.media.everyon.tv/chgrp005b/live_hd.m3u8
 #EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS"  group-title="Unsorted",SBS
 http://123.111.251.9:9981/stream/channelid/356109619?ticket=3AEABE22BF364F893F217A7D36DFBA2CEA84C361&profile=pass
 
-#EXTINF:5, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS"  group-title="Unsorted",SBS-1
-http://116.34.224.168:9981/stream/channelid/1370668161?ticket=2F5C27009DAF6890178EF1AF5BB726C41A8D9A8B&profile=pass
-
-#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-1"  group-title="Unsorted",SBS-2
+#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-1"  group-title="Unsorted",SBS-1
 http://49.168.59.96:9981/stream/channelid/2140198122?ticket=08B5022D154ECE2285E9A53B6B659AAF2A571156&profile=pass
-
-#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-2"  group-title="Unsorted",SBS-3
-http://183.100.216.167:9981/stream/channelid/2086829866
-
-#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-3"  group-title="Unsorted",SBS-4
-http://183.104.41.77:9981/stream/channelid/993019127
-
-#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-4"  group-title="Unsorted",SBS-5
-http://183.104.41.77:9981/stream/channelid/1480814051
-
-#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-5"  group-title="Unsorted",SBS-6
-http://180.229.61.80:9981/stream/channelid/143991989
-
-#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-6"  group-title="Unsorted",SBS-7
-http://59.20.210.249:9981/stream/channelid/582172955
 
 #EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2
 http://123.111.251.9:9981/stream/channelid/1218878406?ticket=5801635E420CDDC972F162BC0DFB7E939A26453D&profile=pass
