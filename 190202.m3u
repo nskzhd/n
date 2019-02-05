@@ -134,8 +134,8 @@ http://49.168.59.96:9981/stream/channelid/264289540?ticket=B261EA5A782C2C081D693
 #EXTINF:28, tvg-id="41" tvg-logo="http://i.imgur.com/WlK2YDk.png" tvg-name="CJ오쇼핑플러스"  group-title="Unsorted",CJ오쇼핑플러스
 http://evwptd800ehfx2.media.everyon.tv/chgrp005b/live_hd.m3u8
 
-#EXTINF:36, tvg-id="313" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvg-name="현대홈쇼핑+샵"  group-title="Unsorted",현대홈쇼핑+샵
-http://evwptd800ehfx2.media.everyon.tv/chgrp006b/live_hd.m3u8
+#EXTINF:36, tvg-id="313" tvg-logo="http://i.imgur.com/COo8Bcm.png" tvg-name="현대홈쇼핑"  group-title="Unsorted",현대홈쇼핑
+http://59.31.90.220:9981/stream/channelid/571349887
 
 #EXTINF:37, tvg-id="314" tvg-logo="http://i.imgur.com/nLxw0LW.png" tvg-name="홈&쇼핑"  group-title="Unsorted",홈&쇼핑
 http://evwptd800ehfx2.media.everyon.tv/chgrp005a/live_hd.m3u8
