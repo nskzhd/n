@@ -171,3 +171,5 @@ ahaha.fun##[class='lt_basic']
 ##div[style='border-bottom:1px solid #d5d5d5']
 torrentpong.com##div[align='center']
 wefreeboard.com,wemakeboard.info,tongnamoo.site,gogoboard.club,ddogall.com,ddowayo.online,###warp > div:nth-child(6)
+wefreeboard.com##div.lt_skin:nth-child(4)
+wefreeboard.com###latest > ul
