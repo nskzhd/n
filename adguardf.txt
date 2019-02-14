@@ -151,12 +151,12 @@ tvnamu.org##.each_adv_center
 tvnamu7.me##li[class='adult_li']
 funst0ry.com###warp > div:nth-child(7)
 ddogall.com###warp > div:nth-child(7)
-moviejoa.net###gnb_1dul > li.gnb_1dli:nth-child(6)
-moviejoa.net###container > div.movie-poster:nth-child(3)
-moviejoa.net###container > div.lt_pc.lt_ml:nth-child(13)
-moviejoa.net###left_q_menu > ul > a:last-child
+moviejoa.net,moviezota.com###gnb_1dul > li.gnb_1dli:nth-child(6)
+moviejoa.net,moviezota.com###container > div.movie-poster:nth-child(3)
+moviejoa.net,moviezota.com###container > div.lt_pc.lt_ml:nth-child(13)
+moviejoa.net,moviezota.com###left_q_menu > ul > a:last-child
 gamsangtok.com###warp > div:nth-child(7)
-moviejoa.net##[class='movie-poster']
+moviejoa.net,moviezota.com##[class='movie-poster']
 funfun.life##[id=latest]
 ||blog.nitroxenon.com^$app=com.nitroxenon.terrarium,important
 tvnamu12.me##div#left_out>div[style="margin:5px 0;"]
