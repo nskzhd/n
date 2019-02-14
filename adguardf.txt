@@ -173,3 +173,4 @@ torrentpong.com##div[align='center']
 wefreeboard.com,wemakeboard.info,tongnamoo.site,gogoboard.club,ddogall.com,ddowayo.online,###warp > div:nth-child(6)
 wefreeboard.com###aside > div.lt_skin:nth-child(3) > ul:last-child
 wefreeboard.com###latest
+m.torrentwal.com##td[width='50%']
