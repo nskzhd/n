@@ -1,18 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:1,tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name=""  group-title="Unsorted",채널 없음
-udp://##
-
-#EXTINF:2, tvg-id="260" tvg-logo="http://i.imgur.com/ZhYaqpt.png" tvg-name="신세계쇼핑"  group-title="Unsorted",신세계쇼핑
-http://evwptd800ehfx2.media.everyon.tv/chgrp042b/live_hd.m3u8
-
-#EXTINF:4, tvg-id="40" tvg-logo="http://i.imgur.com/uBClUx6.png" tvg-name="CJ오쇼핑 플러스"  group-title="Unsorted",CJ오쇼핑
-http://evwptd800ehfx2.media.everyon.tv/chgrp005b/live_hd.m3u8
-
 #EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS"  group-title="Unsorted",SBS
 http://123.111.251.9:9981/stream/channelid/356109619?ticket=3AEABE22BF364F893F217A7D36DFBA2CEA84C361&profile=pass
 
 #EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-1"  group-title="Unsorted",SBS-1
 http://49.168.59.96:9981/stream/channelid/2140198122?ticket=08B5022D154ECE2285E9A53B6B659AAF2A571156&profile=pass
+
+#EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-1"  group-title="Unsorted",SBS-2
+http://58.238.55.219:9981/stream/channelid/1653429174
 
 #EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2
 http://123.111.251.9:9981/stream/channelid/1218878406?ticket=5801635E420CDDC972F162BC0DFB7E939A26453D&profile=pass
@@ -20,23 +14,23 @@ http://123.111.251.9:9981/stream/channelid/1218878406?ticket=5801635E420CDDC972F
 #EXTINF:7, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2-1
 http://211.49.192.187:9981/stream/channelid/1549125914?ticket=B411DEBF742BCF9549E90A978ADC2C38AFAB975F&profile=pass
 
-#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-1"  group-title="Unsorted",KBS2-2
+#EXTINF:7, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2-2
+http://58.238.55.219:9981/stream/channelid/423700794
+
+#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-1"  group-title="Unsorted",KBS2-3
 http://116.121.150.7:9981/stream/channelid/507911292
 
-#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-2"  group-title="Unsorted",KBS2-3
+#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-2"  group-title="Unsorted",KBS2-4
 rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
 
-#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-3"  group-title="Unsorted",KBS2-4
+#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-3"  group-title="Unsorted",KBS2-5
 http://221.151.151.195:9981/stream/channelid/2126669227
 
-#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-3"  group-title="Unsorted",KBS2-5
+#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-3"  group-title="Unsorted",KBS2-6
 http://183.104.41.77:9981/stream/channelid/326718898
 
-#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-3"  group-title="Unsorted",KBS2-6
+#EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2-3"  group-title="Unsorted",KBS2-7
 http://183.100.216.167:9981/stream/channelid/605919522
-
-#EXTINF:8, tvg-id="85" tvg-logo="http://i.imgur.com/tz88mYd.png" tvg-name="GS SHOP"  group-title="Unsorted",GS SHOP
-http://evwptd800ehfx2.media.everyon.tv/chgrp004a/live_hd.m3u8
 
 #EXTINF:9, tvg-id="110" tvg-logo="https://i.imgur.com/7m0VJUq.png" tvg-name="KBS1"  group-title="Unsorted",KBS1
 http://116.34.224.168:9981/stream/channelid/760745742?ticket=1714CAF0C7E2BF3BFEB397066C2401E3C8CBCCCC&profile=pass
@@ -66,6 +60,9 @@ http://116.34.224.168:9981/stream/channelid/1271551690?ticket=EC0B8FE08563246389
 http://221.151.151.195:9981/stream/channelid/1385676697
 
 #EXTINF:-1, tvg-id="122" tvg-logo="http://i.imgur.com/duig32i.png" tvg-name="MBC-2"  group-title="Unsorted",MBC-3
+http://58.238.55.219:9981/stream/channelid/1990863415
+
+#EXTINF:-1, tvg-id="122" tvg-logo="http://i.imgur.com/duig32i.png" tvg-name="MBC-2"  group-title="Unsorted",MBC-4
 http://183.104.41.77:9981/stream/channelid/1274006991
 
 #EXTINF:13, tvg-id="60" tvg-logo="https://i.imgur.com/9zyJNea.png" tvg-name="EBS"  group-title="Unsorted",EBS
@@ -79,6 +76,9 @@ http://116.121.150.7:9981/stream/channelid/1576107889?ticket=3CD93E2A0E0290C8CB6
 
 #EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-3"  group-title="Unsorted",JTBC-2
 http://49.168.59.96:9981/stream/channelid/400843400?ticket=B941F09DC886CCF39E5EDF5CF9DE689BBB1E1F6F&profile=pass
+
+#EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-3"  group-title="Unsorted",JTBC-3
+http://58.238.55.219:9981/stream/channelid/2145010276
 
 #EXTINF:16,tvg-id="129" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-name="MBN"  group-title="Unsorted",MBN
 http://123.111.251.9:9981/stream/channelid/621209718?ticket=C8048191FFF616E7D5DF0CB507B01DD670084E5C&profile=pass
@@ -95,6 +95,9 @@ http://123.111.251.9:9981/stream/channelid/923582494?ticket=40D1E0A65176B1EAA67D
 #EXTINF:-1, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN-1"  group-title="Unsorted",tvN-1
 http://49.166.58.156:9981/stream/channelid/1119188365
 
+#EXTINF:-1, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN-1"  group-title="Unsorted",tvN-2
+http://58.238.55.219:9981/stream/channelid/62815022
+
 #EXTINF:18,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A"  group-title="Unsorted",채널A
 http://49.168.59.96:9981/stream/channelid/1981397769?ticket=DD394E522AD9DD64E4B8EDADDD400A28724AACE8&profile=pass
 
@@ -102,7 +105,7 @@ http://49.168.59.96:9981/stream/channelid/1981397769?ticket=DD394E522AD9DD64E4B8
 http://180.229.61.80:9981/stream/channelid/1770941771
 
 #EXTINF:-1,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A-2"  group-title="Unsorted",채널A-2
-http://evwptd800ehfx2.media.everyon.tv/chgrp045a/live_hd.m3u8
+http://58.238.55.219:9981/stream/channelid/851889582
 
 #EXTINF:19,tvg-id="208" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-name="TV조선"  group-title="Unsorted",TV조선
 http://live.chosun.gscdn.com/live/_definst_/tvchosun2.stream/chunklist.m3u8
@@ -112,6 +115,9 @@ http://116.34.224.168:9981/stream/channelid/1122056009
 
 #EXTINF:-1,tvg-id="208" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-name="TV조선-2"  group-title="Unsorted",TV조선-2
 http://49.168.59.96:9981/stream/channelid/1939752781?ticket=B0309EB4965F5E558237E1CC30638FC0987D9E61&profile=pass
+
+#EXTINF:-1,tvg-id="208" tvg-logo="http://i.imgur.com/ShJ5joR.png" tvg-name="TV조선-2"  group-title="Unsorted",TV조선-3
+http://58.238.55.219:9981/stream/channelid/1880319297
 
 #EXTINF:23,tvg-id="268" tvg-logo="https://www.i-on.net/news/success/__icsFiles/afieldfile/2018/02/05/logo_ypn.jpg" tvg-name="연합뉴스TV"  group-title="Unsorted",연합뉴스TV
 http://116.34.224.168:9981/stream/channelid/692279528
@@ -130,6 +136,9 @@ http://110.12.221.48:9981/stream/channelid/1254924184?ticket=183C00F17BE60D7BD6F
 
 #EXTINF:-1,tvg-id="218" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-name="YTN-2"  group-title="Unsorted",YTN-2
 http://49.168.59.96:9981/stream/channelid/264289540?ticket=B261EA5A782C2C081D693F3E15063457A39F03AD&profile=pass
+
+#EXTINF:-1,tvg-id="218" tvg-logo="http://i.imgur.com/ByeeX5e.png" tvg-name="YTN-2"  group-title="Unsorted",YTN-3
+http://58.238.55.219:9981/stream/channelid/1495382408
 
 #EXTINF:28, tvg-id="41" tvg-logo="http://i.imgur.com/WlK2YDk.png" tvg-name="CJ오쇼핑플러스"  group-title="Unsorted",CJ오쇼핑플러스
 http://evwptd800ehfx2.media.everyon.tv/chgrp005b/live_hd.m3u8
