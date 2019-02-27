@@ -174,3 +174,5 @@ wefreeboard.com,realtok.me,wemakeboard.info,tongnamoo.site,gogoboard.club,ddogal
 wefreeboard.com,realtok.me###aside > div.lt_skin:nth-child(3) > ul:last-child
 wefreeboard.com,realtok.me###latest
 m.torrentwal.com##td[width='50%']
+redspot.tv##div[style='margin:10px 0 10px 0;']
+redspot.tv##div[style='margin-top:10px; width:320px; height:250px;']
