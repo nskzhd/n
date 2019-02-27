@@ -176,3 +176,4 @@ wefreeboard.com,realtok.me###latest
 m.torrentwal.com##td[width='50%']
 redspot.tv##div[style='margin:10px 0 10px 0;']
 redspot.tv##div[style='margin-top:10px; width:320px; height:250px;']
+redspot.tv##div[style='margin-top:10px;']
