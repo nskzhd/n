@@ -69,7 +69,7 @@ http://123.111.251.9:9981/stream/channelid/156051379?ticket=BDB7036ACF9ACDB8F3AC
 http://123.111.251.9:9981/stream/channelid/280440354?ticket=BE2CCA88213AFF0848D151E36F8C3433540F31C2&profile=pass
 
 #EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-1"  group-title="Unsorted",JTBC-1
-http://116.121.150.7:9981/stream/channelid/1576107889?ticket=3CD93E2A0E0290C8CB6B7A2D058D4A3080806767&profile=pass
+http://211.213.151.175:9981/stream/channelid/1446672273
 
 #EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-3"  group-title="Unsorted",JTBC-2
 http://49.168.59.96:9981/stream/channelid/400843400?ticket=B941F09DC886CCF39E5EDF5CF9DE689BBB1E1F6F&profile=pass
@@ -81,7 +81,7 @@ http://58.238.55.219:9981/stream/channelid/2145010276
 http://123.111.251.9:9981/stream/channelid/621209718?ticket=C8048191FFF616E7D5DF0CB507B01DD670084E5C&profile=pass
 
 #EXTINF:-1,tvg-id="129" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-name="MBN-1"  group-title="Unsorted",MBN-1
-http://180.229.61.80:9981/stream/channelid/1291940023
+http://211.213.151.175:9981/stream/channelid/607921476
 
 #EXTINF:-1,tvg-id="129" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-name="MBN-2"  group-title="Unsorted",MBN-2
 http://49.168.59.96:9981/stream/channelid/1832168707?ticket=4B93BBDF21EC94D80647DEE58D0A19467F32AF40&profile=pass
@@ -90,13 +90,13 @@ http://49.168.59.96:9981/stream/channelid/1832168707?ticket=4B93BBDF21EC94D80647
 http://123.111.251.9:9981/stream/channelid/923582494?ticket=40D1E0A65176B1EAA67DC16AFDBE5F867D517091&profile=pass
 
 #EXTINF:-1, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN-1"  group-title="Unsorted",tvN-1
-http://49.166.58.156:9981/stream/channelid/1119188365
+http://211.213.151.175:9981/stream/channelid/2117533999
 
 #EXTINF:-1, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN-1"  group-title="Unsorted",tvN-2
 http://58.238.55.219:9981/stream/channelid/62815022
 
 #EXTINF:18,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A"  group-title="Unsorted",채널A
-http://49.168.59.96:9981/stream/channelid/1981397769?ticket=DD394E522AD9DD64E4B8EDADDD400A28724AACE8&profile=pass
+http://211.213.151.175:9981/stream/channelid/1196662766
 
 #EXTINF:-1,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A-1"  group-title="Unsorted",채널A-1
 http://180.229.61.80:9981/stream/channelid/1770941771
