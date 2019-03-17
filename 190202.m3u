@@ -9,10 +9,10 @@ http://123.111.251.9:9981/stream/channelid/356109619?ticket=3AEABE22BF364F893F21
 http://58.238.55.219:9981/stream/channelid/1653429174
 
 #EXTINF:-1, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2
-http://123.111.251.9:9981/stream/channelid/1218878406?ticket=5801635E420CDDC972F162BC0DFB7E939A26453D&profile=pass
+http://211.49.192.187:9981/stream/channelid/1549125914?ticket=B411DEBF742BCF9549E90A978ADC2C38AFAB975F&profile=pass
 
 #EXTINF:7, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2-1
-http://211.49.192.187:9981/stream/channelid/1549125914?ticket=B411DEBF742BCF9549E90A978ADC2C38AFAB975F&profile=pass
+http://123.111.251.9:9981/stream/channelid/1218878406?ticket=5801635E420CDDC972F162BC0DFB7E939A26453D&profile=pass
 
 #EXTINF:7, tvg-id="111" tvg-logo="https://i.imgur.com/GqsZvIh.png" tvg-name="KBS2"  group-title="Unsorted",KBS2-2
 http://58.238.55.219:9981/stream/channelid/423700794
