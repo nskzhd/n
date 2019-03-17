@@ -181,3 +181,4 @@ redspot.tv##iframe[id='fw-iframe525260449']
 redspot.tv##div[style="margin-left:-9px; margin-top:5px; min-height:90px; height: auto;"]
 redspot.tv##div[style="margin-top:13px;"]
 redspot.tv&&script
+ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div.img-board:nth-child(2)
