@@ -12,7 +12,7 @@ ikoreantv.com##td[width='480']
 bunyuc.com/thema/cactus2/assets/img/banner1.jpg$image
 ##.each_adv_center
 ##.pane_mobile_bottom
-tvnamu3.com##[id='load_check_app']
+tvnamu3.com,www.tvnamu.xyz##[id='load_check_app']
 thekoreapress.com##[href*="../bbs/link.php?bo_table=banner_"]
 bunyuc.com##.row-15.row:nth-of-type(3) > .col-15.col-lg-6:nth-of-type(2) > .row-15.row > .col-15.col-sm-6:nth-of-type(2)
 bunyuc.com##.main-box:nth-of-type(5)
@@ -138,17 +138,17 @@ ilovevid.com#%#zfgloadedpopup = true;
 ||ad.smartmediarep.com
 ikoreantv.com##table[width='52']
 ikoreantv.com##div[style='height:300px']
-tvnamu2.com##.adult_li
+tvnamu2.com,tvnamu.xyz##.adult_li
 gall.dcinside.com##TR[class="reply_line comment_mandu"]
 gall.dcinside.com##.written_dccon
 gall.dcinside.com##.comment_mandu
 chillax.ws#%#Object.defineProperty(window, 'usedPass', { value: true });
 tvnamu2.com##.each_adv_center
 jamack.net##[class='']
-tvnamu2.com##[id='load_check_app']
+tvnamu2.com,tvnamu.xyz##[id='load_check_app']
 ikoreantv.com###tnt_main_left_menu > div:nth-child(6)
-tvnamu.org##.each_adv_center
-tvnamu7.me##li[class='adult_li']
+tvnamu.org,tvnamu.xyz##.each_adv_center
+tvnamu7.me,tvnamu.xyz##li[class='adult_li']
 funst0ry.com###warp > div:nth-child(7)
 ddogall.com###warp > div:nth-child(7)
 moviejoa.net,moviezota.com###gnb_1dul > li.gnb_1dli:nth-child(6)
@@ -159,8 +159,8 @@ gamsangtok.com###warp > div:nth-child(7)
 moviejoa.net,moviezota.com##[class='movie-poster']
 funfun.life##[id=latest]
 ||blog.nitroxenon.com^$app=com.nitroxenon.terrarium,important
-tvnamu12.me##div#left_out>div[style="margin:5px 0;"]
-tvnamu12##div#right_out>div[style="margin:5px 0;"]
+tvnamu12.me,tvnamu.xyz##div#left_out>div[style="margin:5px 0;"]
+tvnamu12.me,tvnamu.xyz##div#right_out>div[style="margin:5px 0;"]
 proviralad.com
 dailymovie.xyz
 *.esy.es
