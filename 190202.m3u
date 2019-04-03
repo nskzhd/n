@@ -3,7 +3,7 @@
 http://211.49.192.187:9981/stream/channelid/183379691?ticket=0C0DF455B46DD5900F08EAB34F1A17AC21C2A642&profile=pass
 
 #EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-1"  group-title="Unsorted",SBS-1
-http://123.111.251.9:9981/stream/channelid/356109619?ticket=3AEABE22BF364F893F217A7D36DFBA2CEA84C361&profile=pass
+http://125.187.143.95:9981/stream/channelid/361265443?profile=pass
 
 #EXTINF:-1, tvg-id="164" tvg-logo="http://i.imgur.com/K2ztoDT.png" tvg-name="SBS-1"  group-title="Unsorted",SBS-2
 http://58.238.55.219:9981/stream/channelid/1653429174
@@ -48,7 +48,7 @@ rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJn
 http://183.104.41.77:9981/stream/channelid/1880620139
 
 #EXTINF:11, tvg-id="122" tvg-logo="http://i.imgur.com/duig32i.png" tvg-name="MBC"  group-title="Unsorted",MBC
-http://123.111.251.9:9981/stream/channelid/1515461861?ticket=C4C35760D741652D826F8EBC5F818A28259D62FA&profile=pass
+http://125.187.143.95:9981/stream/channelid/809226782?profile=pass
 
 #EXTINF:-1, tvg-id="122" tvg-logo="http://i.imgur.com/duig32i.png" tvg-name="MBC-1"  group-title="Unsorted",MBC-1
 http://116.34.224.168:9981/stream/channelid/1271551690?ticket=EC0B8FE08563246389DF3E9120C0704F74720179&profile=pass
@@ -69,7 +69,7 @@ http://123.111.251.9:9981/stream/channelid/156051379?ticket=BDB7036ACF9ACDB8F3AC
 http://211.49.192.187:9981/stream/channelid/1247294181?ticket=49821F32B31031871CDFC8C2C2578396762DBC04&profile=pass
 
 #EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-1"  group-title="Unsorted",JTBC-1
-http://123.111.251.9:9981/stream/channelid/280440354?ticket=BE2CCA88213AFF0848D151E36F8C3433540F31C2&profile=pass
+http://125.187.143.95:9981/stream/channelid/302576498?profile=pass
 
 #EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-3"  group-title="Unsorted",JTBC-2
 http://211.213.151.175:9981/stream/channelid/1446672273
@@ -81,25 +81,25 @@ http://58.238.55.219:9981/stream/channelid/2145010276
 http://211.49.192.187:9981/stream/channelid/1387527714?ticket=EEFB10EDAAEA7A2647C210A9D3891262B81EF950&profile=pass
 
 #EXTINF:-1,tvg-id="129" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-name="MBN-1"  group-title="Unsorted",MBN-1
-http://211.213.151.175:9981/stream/channelid/607921476
+http://125.187.143.95:9981/stream/channelid/738385247?profile=pass
 
 #EXTINF:-1,tvg-id="129" tvg-logo="http://i.imgur.com/p0mvIJN.png" tvg-name="MBN-2"  group-title="Unsorted",MBN-2
-http://123.111.251.9:9981/stream/channelid/621209718?ticket=C8048191FFF616E7D5DF0CB507B01DD670084E5C&profile=pass
+http://211.213.151.175:9981/stream/channelid/607921476
 
 #EXTINF:17, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN"  group-title="Unsorted",tvN
 http://211.49.192.187:9981/stream/channelid/1274658293?ticket=6CCD38B5D76F9463B963810CC3AC26C023AB9261&profile=pass
 
 #EXTINF:-1, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN-1"  group-title="Unsorted",tvN-1
-http://211.213.151.175:9981/stream/channelid/2117533999
+http://125.187.143.95:9981/stream/channelid/1712619650?profile=pass
 
 #EXTINF:-1, tvg-id="207" tvg-logo="http://i.imgur.com/OJ9A8fZ.png" tvg-name="tvN-1"  group-title="Unsorted",tvN-2
-http://123.111.251.9:9981/stream/channelid/923582494?ticket=40D1E0A65176B1EAA67DC16AFDBE5F867D517091&profile=pass
+http://211.213.151.175:9981/stream/channelid/2117533999
 
 #EXTINF:18,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A"  group-title="Unsorted",채널A
 http://211.49.192.187:9981/stream/channelid/1018998684?ticket=769DC02A6BE87799088525FE603051DC1CBE73DA&profile=pass
 
 #EXTINF:-1,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A-1"  group-title="Unsorted",채널A-1
-http://180.229.61.80:9981/stream/channelid/1770941771
+http://125.187.143.95:9981/stream/channelid/1303133491?profile=pass
 
 #EXTINF:-1,tvg-id="281" tvg-logo="http://i.imgur.com/xti35f5.png" tvg-name="채널A-2"  group-title="Unsorted",채널A-2
 http://211.213.151.175:9981/stream/channelid/1196662766
