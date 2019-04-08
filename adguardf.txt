@@ -191,3 +191,5 @@ tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child >
 tvwang2.com##.left
 tvwang2.com##.ban
 tvwang2.com##.mas, .lef
+tvkim3.com##.ban
+tvkim3.com##.poba
