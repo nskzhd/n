@@ -193,3 +193,4 @@ tvwang2.com##.ban
 tvwang2.com##.mas, .lef
 tvkim3.com##.ban
 tvkim3.com##.poba
+tvkim3.com##.chat
