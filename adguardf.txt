@@ -191,3 +191,4 @@ tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2
 tvkim3.com##.ban
 tvkim3.com##.poba
 tvkim3.com##.chat
+tvkim3.com##[id='apa1']
