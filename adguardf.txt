@@ -190,3 +190,4 @@ tvwang2.com##section:nth-child(6) > div.cont:first-child > div.left:first-child
 tvwang2.com##section:nth-child(6) > div.mess:nth-child(2)
 tvwang2.com##section:nth-child(6) > div.cont:last-child > div.mac:first-child > div.mab:first-child
 tvwang2.com##section:nth-child(6) > div.cont:last-child > div.mac:nth-child(3)
+tvwang2.com##section:nth-child(6) > div.cont:first-child > div.cent:nth-child(2) > div.lis:nth-child(5)
