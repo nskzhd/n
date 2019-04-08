@@ -191,3 +191,9 @@ tvwang2.com##section:nth-child(6) > div.mess:nth-child(2)
 tvwang2.com##section:nth-child(6) > div.cont:last-child > div.mac:first-child > div.mab:first-child
 tvwang2.com##section:nth-child(6) > div.cont:last-child > div.mac:nth-child(3)
 tvwang2.com##section:nth-child(6) > div.cont:first-child > div.cent:nth-child(2) > div.lis:nth-child(5)
+tvkim3.com##section:nth-child(13) > div.poba:last-child
+tvkim3.com##section:nth-child(13) > div.chat:nth-child(3)
+tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:first-child
+tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(2)
+tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(3)
+tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(4)
