@@ -182,12 +182,6 @@ redspot.tv##div[style="margin-left:-9px; margin-top:5px; min-height:90px; height
 redspot.tv##div[style="margin-top:13px;"]
 redspot.tv&&script
 ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div.img-board:nth-child(2)
-tvkim3.com##section:nth-child(13) > div.poba:last-child
-tvkim3.com##section:nth-child(13) > div.chat:nth-child(3)
-tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:first-child
-tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(2)
-tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(3)
-tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(4)
 tvwang2.com##.left
 tvwang2.com##.ban
 tvwang2.com##.mas, .lef
