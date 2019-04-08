@@ -190,3 +190,4 @@ tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child >
 tvkim3.com##section:nth-child(13) > div.chan:nth-child(2) > div.bod:last-child > a.ban:nth-child(4)
 tvwang2.com##.left
 tvwang2.com##.ban
+tvwang2.com##.mas, .lef
