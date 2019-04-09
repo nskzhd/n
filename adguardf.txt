@@ -190,3 +190,6 @@ ikoreantv.com##div:nth-child(12) > div > table > tbody > tr > td:last-child > di
 ikoreantv.com##table:nth-child(10) > tbody > tr > td:last-child
 ikoreantv.com##div:nth-child(17) > div:nth-child(2) > div > table > tbody > tr > td:last-child > table:last-child > tbody > tr:nth-child(11) > td:first-child > a:last-child
 ikoreantv.com##div[style='height:300px']
+ikoreantv.com###mainIndexTable > tbody > tr:nth-child(2)
+ikoreantv.com###mainIndexTable > tbody > tr:nth-child(4)
+ikoreantv.com##div:nth-child(11)
