@@ -173,7 +173,9 @@ redspot.tv&&script
 ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div.img-board:nth-child(2)
 tvwang2.com##.left
 tvwang2.com##.ban
-tvwang2.com##.mas, .lef
+tvwang2.com###apno
+img.tvwang2.com/banner
+tvwang2.com##.back
 tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2) > div.mac:nth-child(3) > div.mal:last-child
 tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.righ:last-child > div.col:nth-child(6)
 tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2) > div.tab:nth-child(5) > div.tbo:last-child
