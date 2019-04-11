@@ -171,14 +171,16 @@ redspot.tv##div[style="margin-left:-9px; margin-top:5px; min-height:90px; height
 redspot.tv##div[style="margin-top:13px;"]
 redspot.tv&&script
 ppomppu.co.kr##div.wrapper:nth-child(9) > div.contents:nth-child(2) > div.container:last-child > div.img-board:nth-child(2)
-tvwang2.com##.left
-tvwang2.com##.ban
-tvwang2.com###apno
+tvwang2.com,tvwang3.com##.left
+tvwang2.com,tvwang3.com##.ban
+tvwang2.com,tvwang3.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2) > div.mac:nth-child(3) > div.mal:last-child
+tvwang2.com,tvwang3.com##section:nth-child(6) > div.cont:nth-child(2) > div.righ:last-child > div.col:nth-child(6)
+tvwang2.com,tvwang3.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2) > div.tab:nth-child(5) > div.tbo:last-child
+tvwang2.com,tvwang3.com###apno
 img.tvwang2.com/banner
-tvwang2.com##.back
-tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2) > div.mac:nth-child(3) > div.mal:last-child
-tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.righ:last-child > div.col:nth-child(6)
-tvwang2.com##section:nth-child(6) > div.cont:nth-child(2) > div.cent:nth-child(2) > div.tab:nth-child(5) > div.tbo:last-child
+tvwang2.com,tvwang3.com##.back
+tvwang3.com##section:nth-child(6) > div.cont:last-child > div.mac:nth-child(3)
+img.tvwang3.com/banner
 tvkim3.com##.ban
 tvkim3.com##.poba
 tvkim3.com##.chat
