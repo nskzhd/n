@@ -182,10 +182,10 @@ img.tvwang2.com/banner
 tvwang2.com,tvwang3.com##.back
 tvwang3.com##section:nth-child(6) > div.cont:last-child > div.mac:nth-child(3)
 img.tvwang3.com/banner
-tvkim3.com##.ban
-tvkim3.com##.poba
-tvkim3.com##.chat
-tvkim3.com##[id='apa1']
+tvkim3.com,live.enc0867live.com##.ban
+tvkim3.com,live.enc0867live.com##.poba
+tvkim3.com,live.enc0867live.com##.chat
+tvkim3.com,live.enc0867live.com##[id='apa1']
 ikoreantv.com###tnt_main_left_menu
 ikoreantv.com##div:nth-child(12) > div > table > tbody > tr > td:last-child > div:first-child
 ikoreantv.com###bodytextID54991 > center:last-child > div:first-child
