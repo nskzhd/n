@@ -203,3 +203,10 @@ tvwang3.com,tvkim3.com###item_7
 tvwang3.com,tvkim3.com###item_8
 tvwang3.com##.hnot
 img.tvkim3.com/banner
+tvwang3.com,tvkim3.com###box_9
+tvwang3.com,tvkim3.com###box_10
+tvwang3.com,tvkim3.com###box_11
+tvwang3.com##section:nth-child(6) > div.cont:nth-child(6) > div.mac:nth-child(3)
+tvkim3.com###item_10
+tvkim3.com###item_11
+tvkim3.com##.tban, .righ
