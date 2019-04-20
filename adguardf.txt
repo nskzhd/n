@@ -196,8 +196,10 @@ ikoreantv.com##div[style='height:300px']
 ikoreantv.com###mainIndexTable > tbody > tr:nth-child(2)
 ikoreantv.com###mainIndexTable > tbody > tr:nth-child(4)
 ikoreantv.com##div:nth-child(11)
-tvwang3.com###item_9
-tvwang3.com###item_7
-tvwang3.com###item_8
+ikoreantv.com##div:nth-child(13) > div > table > tbody > tr > td:last-child > div:nth-child(8)
+ikoreantv.com##div:nth-child(13) > div > table > tbody > tr > td:last-child > div:first-child
+tvwang3.com,tvkim3.com###item_9
+tvwang3.com,tvkim3.com###item_7
+tvwang3.com,tvkim3.com###item_8
 tvwang3.com##.hnot
 img.tvkim3.com/banner
