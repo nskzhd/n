@@ -209,4 +209,6 @@ tvwang3.com,tvkim3.com###box_11
 tvwang3.com##section:nth-child(6) > div.cont:nth-child(6) > div.mac:nth-child(3)
 tvkim3.com###item_10
 tvkim3.com###item_11
-tvkim3.com##.tban, .righ
+tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(4)
+tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(5)
+tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(6)
