@@ -212,3 +212,5 @@ tvkim3.com###item_11
 tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(4)
 tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(5)
 tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(6)
+163.172.32.56,163.172.105.134,163.172.105.167,62.210.209.233##a:nth-child(7)
+163.172.32.56,163.172.105.134,163.172.105.167,62.210.209.233###ads
