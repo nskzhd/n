@@ -223,4 +223,3 @@ tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > 
 tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
 tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(2)
 tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(3)
-##a[style='display: block; position: fixed; width: 100%; height: 100%; top: 0px; left: 0px;']
