@@ -214,3 +214,12 @@ tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > 
 tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(6)
 163.172.32.56,163.172.105.134,163.172.105.167,62.210.209.233,54.39.106.185##a:nth-child(7)
 163.172.32.56,163.172.105.134,163.172.105.167,62.210.209.233,54.39.106.185###ads
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.side.left:nth-child(4)
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.left:first-child
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.righ:nth-child(2)
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.left:nth-child(3)
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.righ:nth-child(4)
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
+tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(2)
+tvkim3.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(3)
