@@ -233,3 +233,5 @@ tvkim3.com,live.enc0867live.com##[id='item_8']
 tvkim3.com,live.enc0867live.com##[id='item_12']
 tvkim3.com,live.enc0867live.com##[id='item_13']
 ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:first-child
+videotongs.com##div.container:nth-child(2) > div:nth-child(4)
+videotongs.com##div[style='margin:10px auto;']
