@@ -224,3 +224,8 @@ tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > 
 tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(2)
 tvkim3.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(3)
 ecpms.net/*$popup
+tvwang3.com##a[href='https://ddal-4.com']
+tvwang3.com##a[href='https://bit.ly/2KweoR7']
+tvwang3.com##a[href='https://bit.ly/2KEMTVo']
+tvwang3.com##[id='box_13']
+tvwang3.com##a[href='https://bam-14.com']
