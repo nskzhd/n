@@ -182,10 +182,10 @@ img.tvwang2.com/banner
 tvwang2.com,tvwang3.com##.back
 tvwang3.com##section:nth-child(6) > div.cont:last-child > div.mac:nth-child(3)
 img.tvwang3.com/banner
-tvkim4.com,live.enc0867live.com##.ban
-tvkim4.com,live.enc0867live.com##.poba
-tvkim4.com,live.enc0867live.com##.chat
-tvkim4.com,live.enc0867live.com##[id='apa1']
+tvkim4.com,live.enc0867live.com,tvkim.shop##.ban
+tvkim4.com,live.enc0867live.com,tvkim.shop##.poba
+tvkim4.com,live.enc0867live.com,tvkim.shop##.chat
+tvkim4.com,live.enc0867live.com,tvkim.shop##[id='apa1']
 ikoreantv.com###tnt_main_left_menu
 ikoreantv.com##div:nth-child(12) > div > table > tbody > tr > td:last-child > div:first-child
 ikoreantv.com###bodytextID54991 > center:last-child > div:first-child
@@ -198,40 +198,40 @@ ikoreantv.com###mainIndexTable > tbody > tr:nth-child(4)
 ikoreantv.com##div:nth-child(11)
 ikoreantv.com##div:nth-child(13) > div > table > tbody > tr > td:last-child > div:nth-child(8)
 ikoreantv.com##div:nth-child(13) > div > table > tbody > tr > td:last-child > div:first-child
-tvwang3.com,tvkim4.com,live.enc0867live.com###item_9
-tvwang3.com,tvkim4.com,live.enc0867live.com###item_7
-tvwang3.com,tvkim4.com,live.enc0867live.com###item_8
+tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###item_9
+tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###item_7
+tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###item_8
 tvwang3.com##.hnot
 img.tvkim4.com/banner
-tvwang3.com,tvkim4.com,live.enc0867live.com###box_9
-tvwang3.com,tvkim4.com,live.enc0867live.com###box_10
-tvwang3.com,tvkim4.com,live.enc0867live.com###box_11
+tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###box_9
+tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###box_10
+tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###box_11
 tvwang3.com##section:nth-child(6) > div.cont:nth-child(6) > div.mac:nth-child(3)
-tvkim4.com,live.enc0867live.com###item_10
-tvkim4.com,live.enc0867live.com###item_11
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(4)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(5)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(6)
+tvkim4.com,live.enc0867live.com,tvkim.shop###item_10
+tvkim4.com,live.enc0867live.com,tvkim.shop###item_11
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(4)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(5)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(6)
 163.172.32.56,163.172.105.134,163.172.105.167,62.210.209.233,54.39.106.185##a:nth-child(7)
 163.172.32.56,163.172.105.134,163.172.105.167,62.210.209.233,54.39.106.185###ads
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.side.left:nth-child(4)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.left:first-child
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.righ:nth-child(2)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.left:nth-child(3)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.righ:nth-child(4)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(2)
-tvkim4.com,live.enc0867live.com##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(3)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.side.left:nth-child(4)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.left:first-child
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.righ:nth-child(2)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.left:nth-child(3)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.ccon:first-child > div.tban.righ:nth-child(4)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:first-child
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.righ:nth-child(2)
+tvkim4.com,live.enc0867live.com,tvkim.shop##section:nth-child(5) > div.cont:nth-child(3) > div.tban.left:nth-child(3)
 ecpms.net/*$popup
 tvwang3.com##a[href='https://ddal-4.com']
 tvwang3.com##a[href='https://bit.ly/2KweoR7']
 tvwang3.com##a[href='https://bit.ly/2KEMTVo']
 tvwang3.com##[id='box_13']
 tvwang3.com##a[href='https://bam-14.com']
-tvkim4.com,live.enc0867live.com##[id='item_8']
-tvkim4.com,live.enc0867live.com##[id='item_12']
-tvkim4.com,live.enc0867live.com##[id='item_13']
+tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_8']
+tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_12']
+tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_13']
 ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:first-child
 videotongs.com,b1.bricon.site##div.container:nth-child(2) > div:nth-child(4)
 videotongs.com,b1.bricon.site##div[style='margin:10px auto;']
