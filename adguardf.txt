@@ -236,3 +236,4 @@ ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > di
 videotongs.com,b1.bricon.site##div.container:nth-child(2) > div:nth-child(4)
 videotongs.com,b1.bricon.site##div[style='margin:10px auto;']
 ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
+ikoreantv.com##table:nth-child(12) > tbody > tr > td:last-child
