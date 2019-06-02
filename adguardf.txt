@@ -238,3 +238,7 @@ videotongs.com,b1.bricon.site,h2.hitjjal.com,n1.korano.site##div[style='margin:1
 h2.hitjjal.com,n1.korano.site###sizetracker
 ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
 ikoreantv.com##table:nth-child(12) > tbody > tr > td:last-child
+ikoreantv.com##div:nth-child(14)
+ikoreantv.com##div:nth-child(15) > div > table > tbody > tr > td:last-child > div:first-child
+ikoreantv.com###right_banner_menu
+ikoreantv.com##div:nth-child(15) > div > table > tbody > tr > td:last-child > div:nth-child(8)
