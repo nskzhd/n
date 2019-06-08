@@ -186,18 +186,6 @@ tvkim4.com,live.enc0867live.com,tvkim.shop##.ban
 tvkim4.com,live.enc0867live.com,tvkim.shop##.poba
 tvkim4.com,live.enc0867live.com,tvkim.shop##.chat
 tvkim4.com,live.enc0867live.com,tvkim.shop##[id='apa1']
-ikoreantv.com###tnt_main_left_menu
-ikoreantv.com##div:nth-child(12) > div > table > tbody > tr > td:last-child > div:first-child
-ikoreantv.com###bodytextID54991 > center:last-child > div:first-child
-ikoreantv.com##div:nth-child(12) > div > table > tbody > tr > td:last-child > div:nth-child(8)
-ikoreantv.com##table:nth-child(10) > tbody > tr > td:last-child
-ikoreantv.com##div:nth-child(17) > div:nth-child(2) > div > table > tbody > tr > td:last-child > table:last-child > tbody > tr:nth-child(11) > td:first-child > a:last-child
-ikoreantv.com##div[style='height:300px']
-ikoreantv.com###mainIndexTable > tbody > tr:nth-child(2)
-ikoreantv.com###mainIndexTable > tbody > tr:nth-child(4)
-ikoreantv.com##div:nth-child(11)
-ikoreantv.com##div:nth-child(13) > div > table > tbody > tr > td:last-child > div:nth-child(8)
-ikoreantv.com##div:nth-child(13) > div > table > tbody > tr > td:last-child > div:first-child
 tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###item_9
 tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###item_7
 tvwang3.com,tvkim4.com,live.enc0867live.com,tvkim.shop###item_8
@@ -232,13 +220,13 @@ tvwang3.com##a[href='https://bam-14.com']
 tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_8']
 tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_12']
 tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_13']
-ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:first-child
 videotongs.com,b1.bricon.site,h2.hitjjal.com,n1.korano.site##div.container:nth-child(2) > div:nth-child(4)
 videotongs.com,b1.bricon.site,h2.hitjjal.com,n1.korano.site##div[style='margin:10px auto;']
 h2.hitjjal.com,n1.korano.site###sizetracker
+ikoreantv.com###tnt_main_left_menu
+ikoreantv.com##div[style='height:300px']
+ikoreantv.com###right_banner_menu > div
+ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:first-child
 ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
 ikoreantv.com##table:nth-child(12) > tbody > tr > td:last-child
-ikoreantv.com##div:nth-child(14)
-ikoreantv.com##div:nth-child(15) > div > table > tbody > tr > td:last-child > div:first-child
-ikoreantv.com###right_banner_menu
-ikoreantv.com##div:nth-child(15) > div > table > tbody > tr > td:last-child > div:nth-child(8)
+ikoreantv.com###bodytextID56848 > center:last-child > div:last-child > a:nth-child(33) > img
