@@ -230,4 +230,5 @@ ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > di
 ikoreantv.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
 ikoreantv.com##table:nth-child(12) > tbody > tr > td:last-child
 ikoreantv.com###bodytextID56848 > center:last-child > div:last-child > a:nth-child(33) > img
-bananamall.co.kr
+bananmall.co.kr
+lovetoky.co.kr
