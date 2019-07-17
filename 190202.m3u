@@ -140,5 +140,5 @@ http://58.238.55.219:9981/stream/channelid/1495382408
 #EXTINF:95, tvg-id="61" tvg-logo="https://i.imgur.com/2zNGg2S.png" tvg-name="EBS2"  group-title="Unsorted",EBS2
 http://123.111.251.9:9981/stream/channelid/1227304098?ticket=24CC64F4CE88BA9EE5BC97CE23F0F7FCA12C8615&profile=pass
 
-#EXTINF:-1 tvg-id="61" tvg-logo="http://i.imgur.com/WtXDuFU.png" tvg-name="JTBC2" group-title="Unsorted",JTBC2
-http://175.113.154.14:9981/stream/channelid/1803181668?ticket=307347E60BE36BB76806E5A1738C8BA270F2D2B8&profile=matroska
+#EXTINF:-1 logo="http://i.imgur.com/WtXDuFU.png" tvg-id="645e7aebfac1726c82bc031078329d87",JTBC2
+http://175.113.154.14:9981/stream/channelid/1803181668?ticket=307347E60BE36BB76806E5A1738C8BA270F2D2B8&profile=pass
