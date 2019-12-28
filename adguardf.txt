@@ -223,20 +223,20 @@ tvkim4.com,live.enc0867live.com,tvkim.shop##[id='item_13']
 videotongs.com,b1.bricon.site,h2.hitjjal.com,n1.korano.site##div.container:nth-child(2) > div:nth-child(4)
 videotongs.com,b1.bricon.site,h2.hitjjal.com,n1.korano.site##div[style='margin:10px auto;']
 h2.hitjjal.com,n1.korano.site###sizetracker
-ikoreantv.com,.etvstory.com###tnt_main_left_menu
-ikoreantv.com.etvstory.com##div[style='height:300px']
-ikoreantv.com.etvstory.com###right_banner_menu > div
-ikoreantv.com.etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:first-child
-ikoreantv.com.etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
-ikoreantv.com.etvstory.com##table:nth-child(12) > tbody > tr > td:last-child
-ikoreantv.com.etvstory.com###bodytextID56848 > center:last-child > div:last-child > a:nth-child(33) > img
+ikoreantv.com,etvstory.com###tnt_main_left_menu
+ikoreantv.com,etvstory.com##div[style='height:300px']
+ikoreantv.com,etvstory.com###right_banner_menu > div
+ikoreantv.com,etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:first-child
+ikoreantv.com,etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
+ikoreantv.com,etvstory.com##table:nth-child(12) > tbody > tr > td:last-child
+ikoreantv.com,etvstory.com###bodytextID56848 > center:last-child > div:last-child > a:nth-child(33) > img
 bananmall.co.kr
 lovetoky.co.kr
-ikoreantv.com.etvstory.com###mainIndexTable > tbody > tr:nth-child(2)
-ikoreantv.com.etvstory.com###mainIndexTable > tbody > tr:nth-child(4)
-ikoreantv.com.etvstory.com##div:nth-child(19) > div:nth-child(2) > div > table > tbody > tr > td:last-child > table:last-child > tbody > tr:nth-child(6)
-ikoreantv.com.etvstory.com##div:nth-child(19) > div:nth-child(2) > div > table > tbody > tr > td:last-child > table:last-child > tbody > tr:nth-child(11)
-ikoreantv.com.etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(6)
-ikoreantv.com.etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > table:nth-child(5)
-ikoreantv.com.etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > strong:nth-child(2)
-ikoreantv.com.etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(13)
+ikoreantv.com,etvstory.com###mainIndexTable > tbody > tr:nth-child(2)
+ikoreantv.com,etvstory.com###mainIndexTable > tbody > tr:nth-child(4)
+ikoreantv.com,etvstory.com##div:nth-child(19) > div:nth-child(2) > div > table > tbody > tr > td:last-child > table:last-child > tbody > tr:nth-child(6)
+ikoreantv.com,etvstory.com##div:nth-child(19) > div:nth-child(2) > div > table > tbody > tr > td:last-child > table:last-child > tbody > tr:nth-child(11)
+ikoreantv.com,etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(6)
+ikoreantv.com,etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > table:nth-child(5)
+ikoreantv.com,etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > strong:nth-child(2)
+ikoreantv.com,etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(13)
