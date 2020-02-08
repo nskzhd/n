@@ -230,3 +230,8 @@ etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div
 etvstory.com###right_banner_menu > div
 etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(13)
 etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > strong:nth-child(2)
+etvstory.com###tnt_main_left_menu > table:nth-child(6)
+etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div:nth-child(8)
+etvstory.com###tnt_main_left_menu > table:nth-child(2)
+etvstory.com###tnt_main_left_menu > table:nth-child(3)
+etvstory.com###tnt_main_left_menu > table:nth-child(4)
