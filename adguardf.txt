@@ -237,3 +237,5 @@ etvstory.com##div:nth-child(14) > div > table > tbody > tr > td:last-child > div
 etvstory.com###tnt_main_left_menu > table:nth-child(2)
 etvstory.com###tnt_main_left_menu > table:nth-child(3)
 etvstory.com###tnt_main_left_menu > table:nth-child(4)
+etvstory.com###tnt_main_left_menu > table:nth-child(8)
+etvstory.com###tnt_main_left_menu > strong:nth-child(6)
