@@ -239,3 +239,4 @@ etvstory.com###tnt_main_left_menu > table:nth-child(3)
 etvstory.com###tnt_main_left_menu > table:nth-child(4)
 etvstory.com###tnt_main_left_menu > table:nth-child(8)
 etvstory.com###tnt_main_left_menu > strong:nth-child(6)
+m.ppomppu.co.kr###bbs_inform
