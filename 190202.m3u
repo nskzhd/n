@@ -66,7 +66,7 @@ http://183.104.41.77:9981/stream/channelid/1274006991
 http://123.111.251.9:9981/stream/channelid/156051379?ticket=BDB7036ACF9ACDB8F3AC347C9BF0B3003C72EFA7&profile=pass
 
 #EXTINF:15,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC"  group-title="Unsorted",JTBC
-http://211.49.192.187:9981/stream/channelid/1247294181?ticket=49821F32B31031871CDFC8C2C2578396762DBC04&profile=pass
+http://1.214.67.100/vod/74702.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
 
 #EXTINF:-1,tvg-id="97" tvg-logo="http://i.imgur.com/YOYosLG.png" tvg-name="JTBC-1"  group-title="Unsorted",JTBC-1
 http://125.187.143.95:9981/stream/channelid/302576498?profile=pass
