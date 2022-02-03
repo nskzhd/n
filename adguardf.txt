@@ -240,5 +240,5 @@ etvstory.com###tnt_main_left_menu > table:nth-child(4)
 etvstory.com###tnt_main_left_menu > table:nth-child(8)
 etvstory.com###tnt_main_left_menu > strong:nth-child(6)
 m.ppomppu.co.kr###bbs_inform
-DIV#advertisePopup->m:92:404:300:302@tvchak.com
-DIV#advertiseMain.ad-container->m:0:208:412:94@tvchak.com
+tvchak.com##[class='popup-back']
+tvchak.com##[id='advertiseMain']
