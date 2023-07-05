@@ -242,3 +242,4 @@ etvstory.com###tnt_main_left_menu > strong:nth-child(6)
 m.ppomppu.co.kr###bbs_inform
 tvchak.com##[class='popup-back']
 tvchak.com##[id='advertiseMain']
+m.ppomppu.co.kr##iframe[src='https://click.linkprice.com/lpfront/coupang_iframe.php?a_id=A100211316&id=592990']
